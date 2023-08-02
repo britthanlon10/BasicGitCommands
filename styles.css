@@ -1,16 +1,25 @@
 body {
-    background-color: lightblue;
-  }
-  
-  h1 {
-    color: rgb(0, 0, 0);
-    margin-left: 20px;
-    text-align: center;
-    font-family: serif;
-    text-shadow: 2px 2px 4px rgb(67, 65, 65);
-  }
+  background-color: #455e4f;
+  margin-left: 40px;
+}
+img {
+  src: "git-logo-F4A93DAA20-seeklogo.com.png";
+  width: 250px;
+  height: 100px;
+  margin-top: 200px;
+  margin-bottom: 20px;
+  margin-right: 150px;
+}
+h1 {
+  color: rgb(0, 0, 0);
+  margin-left: 20px;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-shadow: 3px 3px 5px rgb(67, 65, 65);
+}
 
-  h2 {
-    font-family: serif;
-    text-shadow: 2px 2px 4px rgb(67, 65, 65)
-  }
+h2 {
+  font-family: serif;
+  text-shadow: 2px 2px 4px rgb(67, 65, 65);
+}
