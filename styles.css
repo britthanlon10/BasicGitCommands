@@ -24,6 +24,7 @@ h1 {
 h2 {
   font-family: serif;
   text-shadow: 2px 2px 4px rgb(67, 65, 65);
+  text-decoration: underline;
 
 }
 
