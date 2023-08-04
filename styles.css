@@ -1,7 +1,7 @@
 body {
-  background-color:rgb(231, 225, 214);
-  margin-left: 70px;
-  margin-right:70px;
+  background-color:rgb(156, 156, 156);
+  margin-left: 90px;
+  margin-right:90px;
 }
 
 img {
@@ -19,12 +19,15 @@ h1 {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   text-shadow: 3px 3px 5px rgb(67, 65, 65);
+  text-decoration: underline;
+  text-decoration-style: wavy;
 }
 
 h2 {
   font-family: serif;
   text-shadow: 2px 2px 4px rgb(67, 65, 65);
   text-decoration: underline;
+ 
 
 }
 
@@ -39,4 +42,9 @@ h2 {
 
 #define {
     font-size: larger;
+}
+
+#bodytext {
+width: 800px;
+margin-left: 200px;
 }
