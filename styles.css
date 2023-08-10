@@ -4,14 +4,6 @@ body {
   margin-right:90px;
 }
 
-img {
-  src: "git-logo-F4A93DAA20-seeklogo.com.png";
-  width: 250px;
-  height: 100px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-right: 150px;
-}
 h1 {
   color: rgb(0, 0, 0);
   margin-left: 20px;
@@ -27,8 +19,6 @@ h2 {
   font-family: serif;
   text-shadow: 2px 2px 4px rgb(67, 65, 65);
   text-decoration: underline;
- 
-
 }
 
 #copyright {
@@ -47,4 +37,11 @@ h2 {
 #bodytext {
 width: 800px;
 margin-left: 200px;
+}
+
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
 }
